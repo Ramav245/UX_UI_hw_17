@@ -1,0 +1,56 @@
+
+
+.inline-block
+{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo
+{
+    width: 23%;
+    padding: 1%; 
+}
+
+nav
+{
+   width: 73%; 
+   padding: 1%; 
+}
+
+ul
+{
+    width: 50%; 
+    margin-left: auto;
+    text-align: center;
+}
+
+.prof.png
+{
+    height: 600px;
+    width: 500px;  
+    padding: 25px; 
+}
+
+.content
+{
+    margin: 0 auto; 
+    width: 500px;
+
+}
+
+footer>
+{
+    background-color: #373738;
+    
+}
+
+footer.ul>
+{
+    display: inline-block; 
+    vertical-align: top;
+}
+
+
+
+
